@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am from Durban, South Africa and I love this amazing city I get to call home.
+
 <!--
 **robindevitt/robindevitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
