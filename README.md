@@ -3,7 +3,7 @@
 I am from Durban, South Africa and I love this amazing city I get to call home.
 
 ### Technology & Tools 
-![  - Visual Studio Code](https://img.shields.io/badge/_-Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual+Studio+Code&logoColor=white) ![  - Apple](https://img.shields.io/badge/_-Apple-000000?style=for-the-badge&logo=Apple&logoColor=white)
+[![  - Visual Studio Code](https://img.shields.io/badge/_-Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual+Studio+Code&logoColor=white) ![  - Apple](https://img.shields.io/badge/_-Apple-000000?style=for-the-badge&logo=Apple&logoColor=white)]()
  ![  - WooCommerce](https://img.shields.io/badge/_-WooCommerce-96588A?style=for-the-badge&logo=woo&logoColor=white) ![  - WordPress](https://img.shields.io/badge/_-WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white) ![  - MySQL](https://img.shields.io/badge/_-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![  - HTML5](https://img.shields.io/badge/_-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![  - JSON](https://img.shields.io/badge/_-JSON-000000?style=for-the-badge&logo=JSON&logoColor=white) ![  - jQuery](https://img.shields.io/badge/_-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)![  - CSS3](https://img.shields.io/badge/_-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
