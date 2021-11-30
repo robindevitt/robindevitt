@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Robin 👋
 
 I am from Durban, South Africa and I love this amazing city I get to call home.
 
