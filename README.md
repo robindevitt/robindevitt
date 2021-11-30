@@ -2,6 +2,10 @@
 
 I am from Durban, South Africa and I love this amazing city I get to call home.
 
+I am an avid coffee drinker and enjoy being out on the trails either on my mountain bike or trail running.
+
+By trade I am a WordPress Developer. I develop custom functionality, themes and plugins. I have a fair amount of development experience with WooCommerce too, developing plugins and custom functionality too.
+
 ### TECHNOLOGY & TOOLS 
 [![  - Visual Studio Code](https://img.shields.io/badge/_-Visual_Studio_Code-013243?logo=Visual+Studio+Code&logoColor=white) ![  - Apple](https://img.shields.io/badge/_-Apple-013243?logo=Apple&logoColor=white)](https://github.com/robindevitt/)
  [![  - WooCommerce](https://img.shields.io/badge/_-WooCommerce-013243?logo=woo&logoColor=white)](https://github.com/robindevitt/) [![  - WordPress](https://img.shields.io/badge/_-WordPress-013243?logo=WordPress&logoColor=white)](https://github.com/robindevitt/) [![  - MySQL](https://img.shields.io/badge/_-MySQL-013243?logo=MySQL&logoColor=white)](https://github.com/robindevitt/) [![  - HTML5](https://img.shields.io/badge/_-HTML5-013243?logo=HTML5&logoColor=white)](https://github.com/robindevitt/)
